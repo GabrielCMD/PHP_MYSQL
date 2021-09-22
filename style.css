@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgb(36, 40, 235);
+    padding: 8px 10px;
+    text-align: center;
+}
+
+a {
+    display: inline-black;
+    margin: 0 10px;
+    color: white;
+    font-size: 10px;
+    font-family: Stint Ultra Condensed;
+}
